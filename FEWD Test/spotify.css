@@ -1,0 +1,152 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    color:white;
+    background-color: rgb(35, 32, 32);
+    font-family: sans-serif;
+}
+
+#main{
+    display: flex;
+    flex-direction: row;
+}
+
+
+#left{
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    background-color: black;
+    height: 90vh;
+    width: 20%;
+    text-align: center;
+}
+
+#logo{
+    height: 40px;
+    width: 140px;
+    background-color: black;
+    padding-top: 30px;
+    padding-right: 80px;
+}
+
+#home{
+    height: 30px;
+    width: 30px;
+    background-color: black;
+}
+
+#sec1{
+    background-color: black;
+    display: flex;
+    justify-content: flex-start;
+    padding-left: 30px;
+    padding-top: 30px;
+}
+.txt1{
+    background-color: black;
+    padding-left: 15px;
+    padding-top: 5px;
+}
+
+#sec12{
+    background-color: black;
+    display: flex;
+    justify-content: flex-start;
+    padding-left: 30px;
+    padding-top: 10px;
+
+}
+#search{
+    height: 30px;
+    width: 30px;
+    background-color: black;
+}
+
+#sec123{
+    background-color: black;
+    display: flex;
+    justify-content: flex-start;
+    padding-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+#lib{
+    height: 30px;
+    width: 30px;
+    background-color: black;
+}
+
+#sec234{
+    background-color: black;
+    display: flex;
+    justify-content: flex-start;
+    padding-left: 30px;
+    padding-top: 10px;
+
+}
+
+#plus{
+    height: 30px;
+    width: 30px;
+    background-color: black;
+}
+
+#sec345{
+    background-color: black;
+    display: flex;
+    justify-content: flex-start;
+    padding-left: 30px;
+    padding-top: 10px;
+}
+
+#like{
+    height: 30px;
+    width: 30px;
+    background-color: black;
+}
+
+#sec456{
+    background-color: black;
+    display: flex;
+    justify-content: flex-start;
+    padding-left: 30px;
+    padding-top: 10px;
+}
+
+#epi{
+    height: 30px;
+    width: 30px;
+    background-color: black;
+    padding-bottom: 20px;
+}
+
+.text{
+    background-color: black;
+    display: flex;
+    justify-content: flex-start;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+
+#right{
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+}
+
+h1{
+    margin-top: 80px;
+    margin-left: 40px;
+}
+
+.SEC9{
+
+}
+
+.ima{
+    height: 30px;
+    width: 30px;
+}
